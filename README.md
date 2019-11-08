@@ -8,7 +8,7 @@ Can be used in paper writing or slides making.
 Required config(can be changed in config.py):
 
 * **original_path**: path to load the original image
-* **result_pathH**: path to save the result
+* **result_path**: path to save the result
 * **colo_hex**: color to draw the border(hex format)
 * **crop_left_bottom**: coordinate of the left bottom point, denoted as *(x1, y1)* in following image
 * **crop_right_top**: coordinate of the right top point, denoted as *(x2, y2)* in following image
@@ -17,6 +17,7 @@ Required config(can be changed in config.py):
 * **paste_left_bottom**: coordinate of the left bottom point to paste crop_img, denoted as *(x3, y3)* in following image
 
 ****
+Required: python3, cv2
 Output: an image with close-view at any location with any ratio and any color of border.
 
 ****
