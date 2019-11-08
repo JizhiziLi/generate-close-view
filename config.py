@@ -1,0 +1,8 @@
+ORIGINAL_PATH = '/Users/jizhizili/Desktop/CVPR2020/TEMP/original.jpg'
+RESULT_PATH = '/Users/jizhizili/Desktop/CVPR2020/TEMP/temp.jpg'
+COLOR_HEX = '#FFD966'
+CROP_LEFT_BOTTOM = (100,100)
+CROP_RIGHT_TOP = (150,150)
+PASTE_RATIO = 2
+THICKNESS = 3
+PASTE_LEFT_BOTTOM = (500,500)
