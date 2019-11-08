@@ -18,6 +18,7 @@ Required config(can be changed in config.py):
 
 ****
 Required: python3, cv2
+
 Output: an image with close-view at any location with any ratio and any color of border.
 
 ****
